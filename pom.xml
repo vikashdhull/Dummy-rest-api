@@ -33,7 +33,7 @@
 		<spring-cloud.version>2025.1.0</spring-cloud.version>
 	</properties>
 
-
+<!-- Staging area experiment -->
 <!-- Second change after first commit -->
 <!-- Git staging experiment -->
 	<!-- Spring Cloud BOM -->
