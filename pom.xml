@@ -138,10 +138,6 @@
 		</plugins>
 	</build>
 
-<<<<<<< HEAD
 <!-- Main branch change -->
-=======
-
 <!-- Feature login change -->
->>>>>>> feature-login
 </project>
